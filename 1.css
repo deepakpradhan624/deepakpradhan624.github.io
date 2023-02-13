@@ -627,6 +627,7 @@ body {
   margin: 10px;
 }
 
-.profile-pic{
+.home-img{
   border-radius: 50% !important;
+  width: 20%;
 }
