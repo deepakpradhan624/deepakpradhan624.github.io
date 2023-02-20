@@ -16,7 +16,7 @@
  *  12. resume
  *  13. portfolio
  *  14. call-to-action section
- *  15. projects
+ *  15. services
  *  16. stats
  *  17. contact
  *  18. footer
@@ -2228,11 +2228,11 @@ header {
 
 /** 
  * ===================================================================
- * 15. projects - (_layout.scss)
+ * 15. services - (_layout.scss)
  *
  * ------------------------------------------------------------------- 
  */
-#projects {
+#services {
 	background: #313131 url(../images/bg.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -2242,7 +2242,7 @@ header {
 	color: white;
 	position: relative;
 }
-#projects .overlay {
+#services .overlay {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -2252,42 +2252,42 @@ header {
 	opacity: .9;
 }
 
-#projects .section-intro {
+#services .section-intro {
 	margin-bottom: 1.8rem;
 }
 
-#projects .section-intro h1 {
+#services .section-intro h1 {
 	color: white;
 }
-#projects .section-intro h5 {
+#services .section-intro h5 {
 	color: #ff0077;
 }
-#projects .section-intro p {
+#services .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
 }
-.projects-content {
+.services-content {
 	max-width: 1200px;
 }
-.projects-list {
+.services-list {
 	margin-top: 1.2rem;
 	text-align: center;
 }
-.projects-list .service {
+.services-list .service {
 	margin-bottom: 1.2rem;
 	padding: 0 30px;
 }
-.projects-list .icon {
+.services-list .icon {
 	display: inline-block;
 	margin-bottom: 2.1rem;
 }
-.projects-list .icon i {
+.services-list .icon i {
 	font-size: 5.4rem;
 	color: #ff0077;
 }
-.projects-list h3 {
+.services-list h3 {
 	color: #ffffff;
 }
-.projects-list .desc {
+.services-list .desc {
 	color: rgba(255, 255, 255, 0.6);
 }
 
