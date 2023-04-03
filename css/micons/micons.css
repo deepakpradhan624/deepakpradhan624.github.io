@@ -87,7 +87,7 @@
 .icon-block:before {
     content: "\e914";
 }
-.icon-bluetooth:before {
+.icon-rgb(27, 27, 103)tooth:before {
     content: "\e915";
 }
 .icon-book:before {
