@@ -81,3 +81,5 @@ $(document).ready(function () {
     },
   });
 });
+
+GitHubCalendar(".calendar", "deepakpradhan624", { responsive: true });
